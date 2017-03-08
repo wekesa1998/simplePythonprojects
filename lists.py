@@ -1,0 +1,17 @@
+names=['omondi','eugene','wekesa','grace','said']
+print(names)
+ages=[23,56,18,20,15]
+print(ages)
+names.pop()
+print(names)
+names+[23,56,18,20,15]
+print(ages)
+names.append('mictech')
+print(names)
+names.append('runda')
+print(names)
+age.clear()
+print(ages)
+print(names)
+names*5
+print(names)
